@@ -25,8 +25,6 @@ deb http://cn.archive.ubuntu.com/ubuntu/ lucid main universe restricted multiver
 deb http://security.ubuntu.com/ubuntu/ lucid-security universe main multiverse restricted
 deb http://cn.archive.ubuntu.com/ubuntu/ lucid-updates universe main multiverse restricted
 deb http://updates.repository.backtrack-linux.org revolution main microverse non-free testing
-
-
 deb http://mirror.edu.backtrack-linux.cn/backtrack/32 revolution main microverse non-free testing
 deb http://mirror.edu.backtrack-linux.cn/backtrack/all revolution main microverse non-free testing
 deb http://mirror.edu.backtrack-linux.cn/backtrack/source revolution main microverse non-free testing
